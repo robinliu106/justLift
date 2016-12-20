@@ -1,7 +1,6 @@
 {
   "name": "justlift",
   "version": "0.0.0",
-  "author": "robinLiu",
   "private": true,
   "scripts": {
     "start": "node app.js"
