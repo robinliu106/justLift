@@ -9,6 +9,12 @@ I want to gamify the workout experience to increase your motivation to get stron
 2. iOS Port
 
 
+### Technical Details
+
+###### Mongoose Schema
+
+  
+
 
 Built on the MEAN Stack
 
